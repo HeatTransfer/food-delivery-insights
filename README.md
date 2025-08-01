@@ -62,6 +62,12 @@ The data was generated to simulate real-world patterns like order frequencies, d
 
 ---
 
+## 🪴ER Diagram
+
+<img width="1327" height="860" alt="ER_Diagram" src="https://github.com/user-attachments/assets/38272d7b-2be2-4417-9f34-9a3738cfe319" />
+
+---
+
 ## ❓ Business Questions Answered
 
 1. **What is the average delivery time across different regions?**
@@ -89,8 +95,10 @@ Food-Delivery-Insights/
 │         ├── DDL.sql
 │         ├── DML.sql
 │         ├── analysis.sql
+|
 ├── README.md
 └── requirements.txt
+└── .gitignore
 └── BRD.pdf
 ```
 
